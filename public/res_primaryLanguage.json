@@ -1,0 +1,106 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "This is Courser react Course",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Pictures",
+        "startDate": "N/A",
+        "description": "Some Project.",
+        "images": [
+          "images/portfolio/animal-shelter/p1.jpg",
+          "images/portfolio/animal-shelter/p2.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      },
+      {
+        "title": "Coursera React",
+        "startDate": "2023",
+        "description": "Project",
+        "images": [
+          "images/portfolio/photography/p1.jpg",
+          "images/portfolio/photography/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "React"
+          }
+        ]
+      },
+      {
+        "title": "Picture",
+        "startDate": "2015",
+        "description": "Coursera",
+        "images": [
+          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Small Company",
+        "title": "Jr. Developer React",
+        "years": "2023-on",
+        "mainTech": [
+          "JavaScript"
+        ],
+        "technologies": [
+          "JavaScript"
+        ]
+      },
+      {
+        "company": "Small Shop",
+        "title": "Coursera Learner",
+        "years": "2023",
+        "mainTech": [
+          "JavaScript"
+        ],
+        "technologies": [
+         "Coursera"
+        ]
+      }
+    ]
+  }
